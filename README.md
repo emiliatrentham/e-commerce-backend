@@ -17,21 +17,21 @@ SO THAT my company can compete with other e-commerce companies
 ```
 
 ## Table of Contents 
-* [Photos](#screenshots)
-* [Installation](#installation)
+<!-- * [Photos](#screenshots) -->
+<!-- * [Installation](#installation) -->
 * [Usage](#usage)
 * [Features](#features)
 * [License](#license)
 * [Socials](#questions)
 
-## Photos
+<!-- ## Photos
 
-![Employee Tracker GIF](./Assets/demo-GIF.gif)
+![Employee Tracker GIF](./Assets/demo-GIF.gif) -->
 
 
-## Installation
+<!-- ## Installation
 - Run `npm i` to install the dependencies that have been loaded into the json files. 
-- Run `node app.js` to start the prompts that will guide the user through the various tasks the application can perform.
+- Run `node app.js` to start the prompts that will guide the user through the various tasks the application can perform. -->
 
 ## Usage 
 This is an E-commerce backend node.js backend that involves the use of an express.js server and a SQL database. It includes RESTful APIs that has CRUD functionality. It also implemements the usage of sequelize as its ORM tool to convert data to and from the database. Because it is a backend only application, Insomnia was used in order to make requests to the APIs.
